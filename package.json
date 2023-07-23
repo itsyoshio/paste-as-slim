@@ -7,6 +7,7 @@
     "type": "git",
     "url": "https://github.com/itsyoshio/paste-as-slim"
   },
+  "logo": "logo.jpg",
   "license": "SEE LICENSE IN LICENSE",
   "engines": {
     "vscode": "^1.80.0"
