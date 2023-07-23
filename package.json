@@ -2,12 +2,12 @@
   "name": "paste-as-slim",
   "displayName": "paste-as-slim",
   "description": "Convert the .html or .erb content to .slim when pasting into a slim-lang file",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/itsyoshio/paste-as-slim"
   },
-  "logo": "logo.jpg",
+  "icon": "logo.jpg",
   "license": "SEE LICENSE IN LICENSE",
   "engines": {
     "vscode": "^1.80.0"
