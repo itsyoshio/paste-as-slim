@@ -1,0 +1,27 @@
+GIT
+  remote: git@github.com:slim-template/html2slim.git
+  revision: e92e6bb80570dce0c413a6ff01b858754845df24
+  branch: master
+  specs:
+    html2slim (0.2.0)
+      nokogiri
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    nokogiri (1.16.5-arm64-darwin)
+      racc (~> 1.4)
+    racc (1.8.0)
+
+PLATFORMS
+  arm64-darwin-22
+  arm64-darwin-23
+
+DEPENDENCIES
+  html2slim!
+
+RUBY VERSION
+   ruby 3.3.2p78
+
+BUNDLED WITH
+   2.4.17

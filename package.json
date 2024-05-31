@@ -1,8 +1,8 @@
 {
   "name": "paste-as-slim",
   "displayName": "paste-as-slim",
-  "description": "Convert the .html or .erb content to .slim when pasting into a slim-lang file",
-  "version": "1.0.0",
+  "description": "Convert html or erb content to slim when pasting into a slim-lang file",
+  "version": "1.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/itsyoshio/paste-as-slim"
